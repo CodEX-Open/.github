@@ -1,41 +1,70 @@
-# 🚀 CodEX
+# 🎓 CodEX | Academic Dev Squad
 
-### *Transformando ideias em algoritmos de alta performance.*
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em_Aprendizado-blueviolet?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Foco-Acadêmico-orange?style=for-the-badge" alt="Foco">
+  <img src="https://img.shields.io/badge/Versão-Beta-green?style=for-the-badge" alt="Versão">
+</p>
 
-Bem-vindo ao quartel-general da **CodEX**. Somos uma equipe de desenvolvimento focada em construir soluções digitais robustas, escaláveis e com design centrado no usuário.
+---
+
+## 🚀 Sobre a CodEX
+Bem-vindo ao nosso laboratório de desenvolvimento! A **CodEX** é uma equipe recém-formada por estudantes e entusiastas de tecnologia. 
+
+Diferente de uma empresa tradicional, nosso objetivo principal é o **crescimento técnico coletivo**. Somos uma célula acadêmica onde a teoria da sala de aula encontra a prática do teclado.
+
+> *"Ninguém sabe tanto que não possa aprender, nem tão pouco que não possa ensinar."*
 
 ---
 
-## 🛠️ O que fazemos
-Na CodEX, não apenas escrevemos código; resolvemos problemas. Nossa equipe atua em diversas frentes da tecnologia:
+## 📚 Nossa Jornada de Estudos
+Atualmente, estamos explorando e consolidando conhecimentos em:
 
-* **Desenvolvimento Fullstack:** Aplicações web modernas e responsivas.
-* **Sistemas Distribuídos:** Arquiteturas prontas para escala global.
-* **Mobile Experience:** Apps nativos e híbridos de alta fluidez.
-* **DevOps & Cloud:** Infraestrutura automatizada e segura.
-
-## 🚀 Nossa Tech Stack
-Dominamos as ferramentas que o mercado exige:
-
-| Frontend | Backend | Cloud/DevOps |
-| :--- | :--- | :--- |
-| React / Next.js | Node.js / Go | AWS / Azure |
-| Tailwind CSS | Python (FastAPI) | Docker / Kubernetes |
-| TypeScript | PostgreSQL / Redis | CI/CD GitHub Actions |
-
-## 🤝 Como Colaborar
-Adoramos a comunidade open-source! Se você quer contribuir:
-
-1.  Explore nossos **repositórios públicos**.
-2.  Leia as `CONTRIBUTING.md` de cada projeto.
-3.  Abra uma **Issue** ou envie um **Pull Request**.
-
-## 💬 Contato
-Quer tirar uma ideia do papel ou apenas trocar uma ideia sobre tech?
-
-* **Email:** [contato@codex.dev](mailto:contato@codex.dev)
-* **LinkedIn:** [linkedin.com/company/codex](https://linkedin.com)
-* **Site Oficial:** [www.codex.dev](https://google.com)
+* **Fundamentos:** Algoritmos, Estrutura de Dados e Lógica de Programação.
+* **Backend com Python:** Aprendendo a criar sistemas seguros e eficientes.
+* **Framework Django:** Desbravando o desenvolvimento web "com baterias incluídas".
+* **Versionamento:** Dominando o Git e o fluxo de trabalho em equipe (GitFlow).
 
 ---
-> "The code is the law, but the logic is the soul." – **Team CodEX**
+
+## 🛠️ Nosso "Laboratório" (Stack)
+Enquanto evoluímos, estas são as ferramentas que estamos desbravando:
+
+- **Linguagens e Frameworks:**
+  
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Ferramentas:**
+  
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+  - ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌱 O que esperar dos nossos repositórios?
+Como somos uma equipe em aprendizado, nossos projetos são:
+1. **Experimentais:** Testes de novas tecnologias e bibliotecas.
+2. **Exercícios Coletivos:** Desafios de lógica e mini-projetos acadêmicos.
+3. **Documentados:** Tentamos explicar o "porquê" de cada decisão para ajudar outros estudantes.
+
+---
+
+## 🤝 Feedbacks são muito bem-vindos!
+Se você é um desenvolvedor mais experiente e viu algo que pode ser melhorado em nossos códigos, **por favor, abra uma Issue ou um Pull Request!** Mentorias e críticas construtivas são o combustível da nossa evolução.
+
+---
+
+## 📬 Contato
+* **Membros:**
+  - ![Patrick Ornelas]("https://github.com/PatrickOrnelas")
+  - ![Leonardo Carvalho]("https://github.com/capitaoleleco")
+  - ![Gustavo Akihiro]("https://github.com/gstvakihiro")
+  - ![Dawid Rizzo]("https://github.com/davi8266")
+  - ![Luiz Gustavo Hadermeck]("https://github.com/LuizHadermeck")
+  - ![Lucas Seidel]("https://github.com/SeidelEXE")
+  - ![Felipe Abreu]("https://github.com/felipesilva312")
+  - ![Luis Felipe]("https://github.com/Luis-Felipe05")
+  - ![Pedro Gustinelli]("https://github.com/pedrogustinelli")
+
+---
