@@ -55,18 +55,3 @@ Como somos uma equipe em aprendizado, nossos projetos são:
 
 ## 🤝 Feedbacks são muito bem-vindos!
 Se você é um desenvolvedor mais experiente e viu algo que pode ser melhorado em nossos códigos, **por favor, abra uma Issue ou um Pull Request!** Mentorias e críticas construtivas são o combustível da nossa evolução.
-
----
-
-## 👥 Membros da Equipe
-* [Patrick Ornelas](https://github.com/PatrickOrnelas)
-* [Leonardo Carvalho](https://github.com/capitaoleleco)
-* [Gustavo Akihiro](https://github.com/gstvakihiro)
-* [Dawid Rizzo](https://github.com/davi8266)
-* [Luiz Gustavo Hadermeck](https://github.com/LuizHadermeck)
-* [Lucas Seidel](https://github.com/SeidelEXE)
-* [Felipe Abreu](https://github.com/felipesilva312)
-* [Luis Felipe](https://github.com/Luis-Felipe05)
-* [Pedro Gustinelli](https://github.com/pedrogustinelli)
-
----
